@@ -2,7 +2,7 @@ development:
   adapter: postgresql
   encodeing: unicode
   host: db
-  database: ankimo_dev
+  database: develop_database
   username: postgres
   pool: 20
   timeout: 15000
